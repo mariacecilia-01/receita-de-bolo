@@ -1,5 +1,5 @@
 # Receita
-[](preview.png)
+![](preview.png)
 
 ## Projeto
 Primeiro trabalho com HTML e CSS
